@@ -3,7 +3,12 @@ token Bitcash del proyecto Alena basado en la plataforma .sol
 La marca Bitcash Token  y el proyecto Alena es de propiedad,   asi como el de su creacion  Leonardo Daza Blanco Ceo de Ing . Blockachain de la Division Empresarial De HPE basado en el articulado  SPDX-License-Identifier: GPL-3.0 de derecho de autor  aplicada a su uso distribucion y comercializacion como creacion de nuevos token https://www.hpe.com/es/es/about/legal/terms-of-use.html
 
 
-solo podra ser hecha bajo escrito  y previa autorizacion a mi persona bajo un smart contract , donde se estableceran las condiciones de uso , distribucion , asi como la compra y venta y/o almacenaje de nuestro token entre otras caracteristicas y limitaciones que se acuerden en  dicho contrato digital celebrado por ambas partes , entre ellas el costo total de la transacción financiera implita en ese contrato , asi como  en cualquier otro uso no autorizado no es de mi responsabilidad y quedara a pleno derecho de ejecusion cualquier medida posterior a la que se incurra (n) la (s) personas que bifurquen este codigo  sin que esto conlleve a ningun agravio legal o punible a mi persona o   a la(s) empresa(s) que es y/o (esten) socia a este proyecto.
+solo podra ser hecha bajo escrito  y previa autorizacion a mi persona bajo un smart contract , donde se estableceran las condiciones de uso , distribucion , asi como la compra y venta y/o almacenaje de nuestro token entre otras caracteristicas y limitaciones que se acuerden en  dicho contrato digital celebrado por ambas partes , entre ellas el costo total de la transacción financiera implita en ese contrato , asi como  en cualquier otro uso no autorizado no es de mi responsabilidad y quedara a pleno derecho de ejecusion cualquier medida posterior a la que se incurra (n) la (s) personas que bifurquen este codigo , sin que esto conlleve a ningun agravio legal ,ni ninguna compensacion economica ,en niguna de sus forma
+
+
+ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye(n) pagos en criptoactivos /token / NFT /trasnferencia P2P, asi como cualquier otra forma y/o tipo de compensacion de pago incluyendo  el pago o trasnferencia en nuestro activo digital ( Bitcash) o punible a mi persona o  inversionista(s)
+
+a la(s) empresa(s) que es y/o (esten) socia a este proyecto.
 
 declaracion de uso HPE
 
