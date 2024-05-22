@@ -15,7 +15,9 @@ por ello se podra actuar en cualquier medida posterior a la que se incurra (n) l
 ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye(n) pagos en criptoactivos /token / NFT /trasnferencia P2P, asi como cualquier otra forma y/o tipo de compensacion de pago incluyendo  el pago o trasnferencia en nuestro activo digital ( Bitcash)
 
 si ese fuese el caso usted debera de resarcir cualquier tipo de  daño ,ya sea copia de modulos archivos , crakeo de Data ,u otro tipo de crakeo a nuestro proyecto usted (es) deberan de pagar una compensacion economica , legal ,pago en forma de trabajo no remunerado ,a este proyecto en compesacion  ya leido y en acuerdo a ello usted es consciente  del uso legitimo de nuestro software ,como del  codgo asi como de cualquier otro proyecto que se ejecute con este codigo,
-al usarlo usted acepta  y entiende acogiendo estas condiciones aqui descritas.
+
+al usar cualquiera de nuestros producto ya sea este codigo / app / exchanger/ archivo.exe u otro producto de nuestro proyecto 
+ usted acepta  y entiende  y esta acogiendo estas condiciones aqui descritas.
 
 
 declaracion de uso HPE
