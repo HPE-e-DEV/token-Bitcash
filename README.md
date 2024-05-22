@@ -3,15 +3,19 @@ token Bitcash del proyecto Alena basado en la plataforma .sol
 La marca Bitcash Token  y el proyecto Alena es de propiedad,   asi como el de su creacion le pertenece a Leonardo Daza Blanco Ceo de Ing . Blockachain de la Division Empresarial De HPE basado en el articulado  SPDX-License-Identifier: GPL-3.0 de derecho de autor  aplicada a su uso distribucion y comercializacion como creacion de nuevos token https://www.hpe.com/es/es/about/legal/terms-of-use.html
 
 
-solo podra ser hecha bajo escrito  y previa autorizacion a mi persona bajo un smart contract , donde se estableceran las condiciones de uso , distribucion , asi como la compra y venta y/o almacenaje de nuestro token entre otras caracteristicas y limitaciones que se acuerden en  dicho contrato digital celebrado por ambas partes , entre ellas el costo total de la transacción financiera implita en ese contrato , asi como  en cualquier otro uso no autorizado no es de mi responsabilidad y quedara a pleno derecho de ejecusion Legal cualquier accion que se considere justa y acorde para salvaguardar mis derechos legales como de los inversionistas  y empresas asociadas en este proyecto 
+solo podra ser hecha bajo escrito  y previa autorizacion a mi persona bajo un smart contract , donde se estableceran las condiciones de uso , distribucion , asi como la compra y venta y/o almacenaje de nuestro token entre otras caracteristicas y limitaciones que se acuerden en  dicho contrato digital celebrado por ambas partes , entre ellas el costo total de la transacción financiera implita en ese contrato , asi como  en cualquier otro uso no autorizado no es de mi responsabilidad  incluyendo 
+a la(s) empresa(s) que es y/o (esten) socia a este proyecto, No se podra ejercer ninguna accion legal o punible a mi persona o  cualquier inversionista(s) y/o empresa(s)que este (en) asociada a este proyecto 
+
+  y quedara a pleno derecho de ejecusion Legal cualquier accion que se considere justa y acorde para salvaguardar mis derechos legales como de los inversionistas  y empresas asociadas en este proyecto 
 
 
 por ello se podra actuar en cualquier medida posterior a la que se incurra (n) la (s) personas que bifurquen este codigo , sin que esto conlleve a ningun agravio legal ,ni a ningun tipo de compensacion economica ,en ninguna de sus forma incluyendo trasnferencia y pagos bancarios, bajo ningun tipo de pago esto tambien incluye pago o transferencia a tarjetas prepagos y/o cuentas a nivel nacional y/o banca internacional asi como por el modelo de pago via app esto incluye por ninguna empresa de encomienda ni pago de remesa entre otras 
 
 
-ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye(n) pagos en criptoactivos /token / NFT /trasnferencia P2P, asi como cualquier otra forma y/o tipo de compensacion de pago incluyendo  el pago o trasnferencia en nuestro activo digital ( Bitcash) o punible a mi persona o  inversionista(s)
+ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye(n) pagos en criptoactivos /token / NFT /trasnferencia P2P, asi como cualquier otra forma y/o tipo de compensacion de pago incluyendo  el pago o trasnferencia en nuestro activo digital ( Bitcash)
 
-a la(s) empresa(s) que es y/o (esten) socia a este proyecto.
+si ese fuese el caso usted debera de resarcir cualquier tipo de  daño ,ya sea copia de modulos archivos , crakeo de Data ,u otro tipo de crakeo a nuestro proyecto usted (es) deberan de pagar una compensacion economica , legal ,pago en forma de trabajo no remunerado ,a este proyecto en compesacion  ya leido y en acuerdo a ello usted es consciente  del uso legitimo de nuestro software ,como del  codgo asi como de cualquier otro proyecto que se ejecute con este codigo, al usarlo usted acepta estas condiciones aqui descritas
+
 
 declaracion de uso HPE
 
